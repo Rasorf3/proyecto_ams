@@ -1,0 +1,5 @@
+synopsys_custom/
+*.log
+*~
+lib.defs
+**/snapshot.png
