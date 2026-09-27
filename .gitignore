@@ -3,3 +3,5 @@ synopsys_custom/
 *~
 lib.defs
 **/snapshot.png
+*.cdslck
+*.cdslck.*
