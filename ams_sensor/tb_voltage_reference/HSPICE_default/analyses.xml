@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Tue Sep 29 17:31:04 2026-->
+<file-format version="1.0" name="stateCategory">
+ <collection name="analyses">
+  <object version="1" name="analyses" type="saAnalysis">
+   <attribute value="" name="card" type="giString"/>
+   <attribute value="" name="dataDrivenRows" type="giString"/>
+   <attribute value="" name="dataDrivenVariables" type="giString"/>
+   <attribute value="dc" name="definition" type="giString"/>
+   <attribute value="" name="description" type="giString"/>
+   <attribute value="" name="designVar" type="giString"/>
+   <attribute value="1" name="enabled" type="giBoolean"/>
+   <attribute value="0" name="hysteresis" type="giBoolean"/>
+   <attribute value="dc" name="name" type="giString"/>
+   <attribute value="" name="numPoints" type="giString"/>
+   <collection name="options"/>
+   <attribute value="" name="poi" type="giString"/>
+   <attribute value="" name="source" type="giString"/>
+   <attribute value="-40" name="start" type="giString"/>
+   <attribute value="5" name="stepSize" type="giString"/>
+   <attribute value="125" name="stop" type="giString"/>
+   <attribute value="Temperature" name="sweep" type="giString"/>
+   <attribute value="Linear Steps" name="sweepType" type="giString"/>
+   <attribute value="0" name="useCard" type="giBoolean"/>
+  </object>
+ </collection>
+</file-format>

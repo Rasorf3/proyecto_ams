@@ -5,3 +5,6 @@ lib.defs
 **/snapshot.png
 *.cdslck
 *.cdslck.*
+
+# Sesion WaveView ligada a resultados locales
+ams_sensor/tb_voltage_reference/HSPICE_default/customPlotModes/last.sx
